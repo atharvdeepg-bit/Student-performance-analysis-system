@@ -1,2 +1,1 @@
-# Student-performance-analysis-system
-Menu driven python app to manage student marks and analyse class performance : grades,rank list, subject stats , weak-subject detection, text reports and charts . CSV storage + matplotlib. Bennett University CTP(2026CSAE100) team project
+Delete everything and paste the README text from repo.They can copy it from your README.md by clicking RAW then selecting all and copying
